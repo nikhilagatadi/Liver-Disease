@@ -74,16 +74,7 @@ liver-disease/
 - Scikit-learn  
 - Matplotlib, Seaborn  
 - Jupyter Notebook  
-
----
-
-## 📌 Future Improvements  
 - Hyperparameter tuning  
 - Deep learning model integration  
-- Deployment using Flask/Django or Streamlit  
+- Deployment using Flask 
 
----
-
-## 👨‍💻 Author  
-- **Your Name**  
-- GitHub: [your-username](https://github.com/your-username)  

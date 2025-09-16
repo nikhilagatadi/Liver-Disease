@@ -62,12 +62,6 @@ liver-disease/
 
 ---
 
-## 📈 Results  
-- Model accuracy: **XX%** (update with your result)  
-- Best performing algorithm: **XYZ**  
-
----
-
 ## 🛠️ Technologies Used  
 - Python  
 - Pandas, NumPy  
